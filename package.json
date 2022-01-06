@@ -8,15 +8,36 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~42.0.1",
-    "expo-status-bar": "~1.0.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@react-native-masked-view/masked-view": "0.2.5",
+    "@react-navigation/drawer": "^6.1.8",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "@react-stately/slider": "^3.0.3",
+    "@react-stately/tabs": "^3.0.1",
+    "@react-stately/toggle": "^3.2.3",
+    "expo": "^43.0.1",
+    "expo-status-bar": "~1.1.0",
+    "native-base": "^3.2.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.2",
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-maps": "0.28.0",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "0.17.1",
+    "react-stately": "^3.9.0",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.12.9"
   },
   "private": true
 }
